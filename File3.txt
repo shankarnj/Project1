@@ -1,0 +1,4 @@
+total 8
+-rw-r--r-- 1 e3010139 tpxes 17 Nov 22 21:21 File1.txt
+-rw-r--r-- 1 e3010139 tpxes 16 Nov 22 21:33 File2.txt
+-rw-r--r-- 1 e3010139 tpxes  0 Nov 22 23:26 File3.txt
